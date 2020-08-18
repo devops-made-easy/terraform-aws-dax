@@ -14,3 +14,8 @@ module "dax" {
   subnet_ids = [sub-xxxx]
 }
 ```
+
+## Share the Love
+
+Like this project? Please give it a ★ on  [our GitHub!](https://github.com/devops-made-easy/terraform-aws-dax)(it helps us a lot)
+
