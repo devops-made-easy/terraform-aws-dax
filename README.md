@@ -19,3 +19,6 @@ module "dax" {
 
 Like this project? Please give it a ★ on  [our GitHub!](https://github.com/devops-made-easy/terraform-aws-dax)(it helps us a lot)
 
+## License Summary
+
+This sample code is made available under MIT license. See the [LICENSE](LICENSE) file.
