@@ -49,7 +49,7 @@ variable "security_group_ids" {
 }
 
 variable "server_side_encryption" {
-  type        = boolean
+  type        = bool
   description = "(Optional) Encrypt at rest options Default = true"
   default     = true
 }
