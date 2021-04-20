@@ -1,4 +1,8 @@
 # terraform-aws-dax
+![GitHub closed issues](https://img.shields.io/github/issues-closed/devops-made-easy/terraform-aws-dax?style=for-the-badge) [![ Terraform Module ](https://img.shields.io/badge/terraform-workspace-informational?style=for-the-badge&logo=terraform)](https://registry.terraform.io/modules/devops-made-easy/dax/aws/latest)|
+
+
+
 
 # Sample way of calling this module
 
